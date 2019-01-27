@@ -25,10 +25,10 @@ We’re asking participants to think about the hurdles and perspectives that con
 Amazing things can happen when people with a wide variety of skills and experience come together. We want policy makers to talk to educators, librarians to work with web developers, designers to collaborate with researchers, and everything in between. We’re excited to see what happens when folks across disciplines pool their knowledge together to imagine something big.
 ## How can I participate?
 
-The official do-a-thon date is on February 2nd, but we’re encouraging folks to get started before — and hopefully, carry on projects and collaboration after. Here are a few ways you can get involved and participate:
+The official do-a-thon date is on February 2nd, but we're encouraging folks to get started before — and hopefully, carry on projects and collaboration after. Here are a few ways you can get involved and participate:
 
 **Anyone can propose something to work on.**
-Is there a question or challenge you want to tackle? Do you want to teach something or learn? Here’s a chance to share it with the community and work together. Participants can submit proposals the day of the do-a-thon, but we’d love if folks could submit ideas in advance, too.
+Is there a question or challenge you want to tackle? Do you want to teach something or learn? Here's a chance to share it with the community and work together. Participants can submit proposals the day of the do-a-thon, but we'd love if folks could submit ideas in advance, too.
 
 **Anyone can propose a project for others to collaborate on and contribute to.**
 Have a project idea you want to put into action? Or an existing project that needs development or support? The do-a-thon is a great opportunity to receive support and contributions from collaborators in the Pacific Northwest.
