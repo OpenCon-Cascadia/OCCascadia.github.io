@@ -16,13 +16,13 @@ A do-a-thon is a short collaboration where people from different perspectives an
 ## Our Do-a-Thon has three key goals:
 
 **1. Focus on doing.**
-You don’t need to be an expert to propose an activity or participate. Use this time to work on a new idea, find collaborators, teach or attend a workshop — you decide! Get creative with the approaches you take to create more open systems for sharing information, taking action, and building open, inclusive, accessible communities.
+You don't need to be an expert to propose an activity or participate. Use this time to work on a new idea, find collaborators, teach or attend a workshop — you decide! Get creative with the approaches you take to create more open systems for sharing information, taking action, and building open, inclusive, accessible communities.
 
 **2. Explore problems thoughtfully.**
-We’re asking participants to think about the hurdles and perspectives that contextualize an issue before jumping to a solution.
+We're asking participants to think about the hurdles and perspectives that contextualize an issue before jumping to a solution.
 
 **3. Encourage collaboration across skill sets. Build and learn together.**
-Amazing things can happen when people with a wide variety of skills and experience come together. We want policy makers to talk to educators, librarians to work with web developers, designers to collaborate with researchers, and everything in between. We’re excited to see what happens when folks across disciplines pool their knowledge together to imagine something big.
+Amazing things can happen when people with a wide variety of skills and experience come together. We want policy makers to talk to educators, librarians to work with web developers, designers to collaborate with researchers, and everything in between. We're excited to see what happens when folks across disciplines pool their knowledge together to imagine something big.
 ## How can I participate?
 
 The official do-a-thon date is on February 2nd, but we're encouraging folks to get started before — and hopefully, carry on projects and collaboration after. Here are a few ways you can get involved and participate:
