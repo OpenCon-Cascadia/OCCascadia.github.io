@@ -5,24 +5,24 @@ description: Do-a-Thon
 permalink: /doathon/
 sitemap:
     priority: 0.7
-    lastmod: 2017-11-02
+    lastmod: 2019-01-26
     changefreq: weekly
 ---
 
 ## What is a Do-a-Thon?
 
-A do-a-thon is a short sprint where people from different perspectives and skill sets work together and collaborate on challenges, projects, or to learn something new. For OpenCon Cascadia’s do-a-thon, we’ll be focusing on activities that seek to make research and scholarship more open, inclusive, and accessible.
+A do-a-thon is a short collaboration where people from different perspectives and skill sets work together on challenges, projects, or to learn something new. For OpenCon Cascadia’s do-a-thon, we’ll be focusing on activities that seek to make knowledge, community, and action more open, inclusive, and accessible.
 
 ## Our Do-a-Thon has three key goals:
 
 **1. Focus on doing.**
-The do-a-thon's focus is on action. You don't need to be an expert to propose an activity or participate. Use this time to work on a new idea, find collaborators, teach or attend a workshop — you decide! Get creative with the approaches you take to create a more open system for sharing the world's information.
+You don't need to be an expert to propose an activity or participate. Use this time to work on a new idea, find collaborators, teach or attend a workshop — you decide! Get creative with the approaches you take to create more open systems for sharing information, taking action, and building open, inclusive, accessible communities.
 
 **2. Explore problems thoughtfully.**
 We're asking participants to think about the hurdles and perspectives that contextualize an issue before jumping to a solution.
 
 **3. Encourage collaboration across skill sets. Build and learn together.**
-Amazing things can happen when people with a wide variety of skills and experience come together. We want policy makers to talk to educators, librarians to work with web developers, designers to collaborate with researchers, and everything in between. We're excited to see what happens when folks across disciplines pool together their knowledge to imagine something big.
+Amazing things can happen when people with a wide variety of skills and experience come together. We want policy makers to talk to educators, librarians to work with web developers, designers to collaborate with researchers, and everything in between. We're excited to see what happens when folks across disciplines pool their knowledge together to imagine something big.
 ## How can I participate?
 
 The official do-a-thon date is on February 2nd, but we're encouraging folks to get started before — and hopefully, carry on projects and collaboration after. Here are a few ways you can get involved and participate:
