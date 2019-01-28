@@ -4,7 +4,7 @@ name: MacKenzie Gray
 affiliation: Portland State University, Portland
 twitter: 
 github: 
-website: www.linkedin.com/in/mackenzie-gray-psu
+website: https://www.linkedin.com/in/mackenzie-gray-psu/
 orcid: 
 image: "/images/speakers/mackenzie.jpg"
 type: lightening
