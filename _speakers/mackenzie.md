@@ -1,10 +1,10 @@
 ---
 layout: speaker
-name: MacKenzie Grey
+name: MacKenzie Gray
 affiliation: Portland State University, Portland
 twitter: 
 github: 
-website: 
+website: www.linkedin.com/in/mackenzie-gray-psu
 orcid: 
 image: "/images/speakers/mackenzie.jpg"
 type: lightening
