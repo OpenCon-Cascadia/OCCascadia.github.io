@@ -39,7 +39,7 @@ Mozilla Downtown Portland Offices<br>
     <td>6:15 pm</td>
     <td>
       <b>Lightning talks</b><br>
-      Speakers: <a href="/speakers/steph">Stephanie Wright</a>, Kris Alpi, Randy Morris, <a href="/speakers/mackenzie">Mackenzie Grey</a>, and Johnny Boi<br></td>
+      Speakers: <a href="/speakers/steph">Stephanie Wright</a>, Kris Alpi, Randy Morris, <a href="/speakers/mackenzie">Mackenzie Grey</a>, and Johnny Uriarte-Lopez<br></td>
   </tr>
   <tr>
     <td>6:45 pm</td>
@@ -49,7 +49,7 @@ Mozilla Downtown Portland Offices<br>
     <td>7:15 pm</td>
     <td>
       <b>Lightning talks</b><br>
-      Speakers: Sulema Rodriquez, <a href="/speakers/ciera">Ciera Martinez</a>, Anisha Keshavan, Jill Emery, and Adriene Lim<br></td>
+      Speakers: Sulema Rodriquez, <a href="/speakers/ciera">Ciera Martinez</a>, Anisha Keshavan, Jill Emery, Adriene Lim, and Maria Gould<br></td>
   </tr>
   <tr>
     <td>7:45 pm</td>
