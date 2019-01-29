@@ -4,7 +4,7 @@ name: Stephanie Wright
 affiliation: Mozilla
 twitter: shefw 
 github: 
-website: 
+website: https://www.linkedin.com/in/stephw/
 image: "/images/speakers/steph.jpg"
 type: lightening
 ---
