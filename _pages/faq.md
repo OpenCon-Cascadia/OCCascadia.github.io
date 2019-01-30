@@ -99,7 +99,7 @@ Yes. Please email us for access.
 
 Check out this [list of accommodations and Portland attractions](https://csvconf.com/2017/locations/) on the csv,conf website.
 
-### Saturday-parking
+### Saturday parking
 
 Please park in the free [Schnitzer lot](https://goo.gl/maps/E8hjANzBHp52) next to the Roberston Life Sciences Building, and NOT in the paid parking lot under the Roberston Life Sciences Building.
 
