@@ -25,6 +25,7 @@ sitemap:
     - [Will childcare be provided?](#will-childcare-be-provided)
     - [Will a lactation room be available?](#will-a-lactation-room-be-available)
     - [Local accommodation/sights to see](#local-accommodationsights-to-see)
+    - [Is there parking at the Robertson Life Sciences Building on Saturday?](#Saturday-parking)
 
 -----
 
@@ -97,5 +98,9 @@ Yes. Please email us for access.
 ### Local accommodation/sights to see
 
 Check out this [list of accommodations and Portland attractions](https://csvconf.com/2017/locations/) on the csv,conf website.
+
+### Saturday-parking
+
+Please park in the free [Schnitzer lot](https://goo.gl/maps/E8hjANzBHp52) next to the Roberston Life Sciences Building, and NOT in the paid parking lot under the Roberston Life Sciences Building.
 
 <!-- ### About OpenCon -->
