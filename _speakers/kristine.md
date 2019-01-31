@@ -2,10 +2,10 @@
 layout: speaker
 name: Kristine Alpi, PhD
 affiliation: Oregon Health & Science University
-twitter: 
+twitter: krisalpi
 github: 
-website: 
-orcid: 
+website: https://sites.google.com/view/krisalpi
+orcid: 0000-0002-4521-3523
 image: "/images/speakers/kristine.jpg"
 type: lightning
 ---
