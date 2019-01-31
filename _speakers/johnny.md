@@ -7,7 +7,7 @@ github:
 website: https://www.pdx.edu/mcnair-program/jonathan-uriarte-lopez
 orcid: 
 image: "/images/speakers/johnny.jpg"
-type: lightening
+type: lightning
 ---
 
 My name is Jonathan Uriarte-Lopez, but I often go by “Johnny.” I am a senior undergraduate researcher
