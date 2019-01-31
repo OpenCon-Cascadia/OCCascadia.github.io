@@ -39,7 +39,7 @@ Mozilla Downtown Portland Offices<br>
     <td>6:15 pm</td>
     <td>
       <b>Lightning talks</b><br>
-      Speakers: <a href="/speakers/steph">Stephanie Wright</a>, Kris Alpi, Randy Morris, <a href="/speakers/mackenzie">Mackenzie Grey</a>, and <a href="/speakers/johnny">Johnny Uriarte-Lopez</a><br></td>
+      Speakers: <a href="/speakers/stephanie">Stephanie Wright</a>, Kris Alpi, Randy Morris, <a href="/speakers/mackenzie">Mackenzie Grey</a>, and <a href="/speakers/johnny">Johnny Uriarte-Lopez</a><br></td>
   </tr>
   <tr>
     <td>6:45 pm</td>
