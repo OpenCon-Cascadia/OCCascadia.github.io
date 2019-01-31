@@ -4688,3 +4688,9 @@ img + em {
 	display: block;
 	text-align: center;
 }
+
+@media only screen and (max-width: 1026px) { 
+	.gmap { 
+	  display: none; 
+	} 
+  }

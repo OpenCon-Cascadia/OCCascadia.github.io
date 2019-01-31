@@ -11,9 +11,9 @@ sitemap:
 
 # Program
 
-> **Schedule subject to change. Check back for updates.**
+<div class="gmap"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2795.3356769927623!2d-122.6848659844405!3d45.5234501791016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54950a024e0c754d%3A0x439c5ef39ec913a1!2sMozilla!5e0!3m2!1sen!2sus!4v1548955998753" width="300" height="250" frameborder="0" align="right" style="border:0; margin-left:30px;" allowfullscreen></iframe></div>
 
-### Friday February 1, 5:30 PM - 8:30 PM
+## Friday Feb 1, 5:30 PM—8:30 PM
 
 Mozilla Downtown Portland Offices<br>
 [1120 NW Couch St #320, Portland, OR 97209](https://goo.gl/maps/BWe5tDpmYU82)
@@ -62,12 +62,13 @@ Mozilla Downtown Portland Offices<br>
   </tbody>
 </table></div>
 
-### Saturday February 2, 8:30 AM - 5:00 PM
+<div class="gmap"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2796.3269380603965!2d-122.67297467199926!3d45.50349685884658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54950a68e463970f%3A0x36841a35d8c4b29!2sOHSU+Robertson+Life+Sciences+Building!5e0!3m2!1sen!2sus!4v1548957619357<" width="300" height="250" frameborder="0" align="right" style="border:0; margin-left:30px;" allowfullscreen></iframe></div>
 
-OHSU Robertson Life Sciences Building<br> 
-[2730 SW Moody Ave, Portland, OR 97201](https://goo.gl/maps/yDTHVLd3L6r)<br>
-Room 3A001/3A002<br>
-Directions: Please enter the building through the South entrance and go to the 3rd floor via the South Elevators.
+## Saturday Feb 2, 8:30 AM—5:00 PM
+
+<div>OHSU Robertson Life Sciences Building, Room 3A001/3A002<br>
+<a href="https://goo.gl/maps/yDTHVLd3L6r">2730 SW Moody Ave, Portland, OR 97201</a><br>
+<p>Directions: Please enter the building through the South entrance and go to the 3rd floor via the South Elevators.</p></div>
 
 <div><table>
   <col style="width:15%">
