@@ -117,7 +117,7 @@ Directions: Please enter the building through the South entrance and go to the 3
     <td>
       <b>Diversity, Equity, and Inclusion Panel</b> (Discussion + Q&amp;A)<br>
       Moderator: <a href="/speakers/luci">Lucille Moore</a><br>
-      Panelists: <a href="/speakers/letisha">Dr. Letisha Wyatt</a>, <a href="/speakers/sanjay">Dr. Sanjay Srivastava</a>, <a href="/speakers/tara">Tara Robertson</a>, <a href="/speakers/carol">Carol Muñoz Nieves</a>, and Juell Towns<br>
+      Panelists: <a href="/speakers/letisha">Dr. Letisha Wyatt</a>, <a href="/speakers/sanjay">Dr. Sanjay Srivastava</a>, <a href="/speakers/tara">Tara Robertson</a>, <a href="/speakers/carol">Carol Muñoz Nieves</a>, and <a href="/speakers/juell">Juell Towns</a><br>
       <hr style="margin:10px">
       <p style="font-size:.85rem">Central to advancing openness is the belief that information should be shared in an equitable and accessible way. As we work together to build an open movement, we need to constantly challenge our assumptions and ensure we do not replicate some of the same structures of power and systems of oppression that dominate the current framework of scholarship and education. This panel aims to highlight some of the excellent work our local community is already doing and spark a critical discussion around issues of diversity, equity, and inclusions and how we can do better.</p>
     </td>
