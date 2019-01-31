@@ -1,7 +1,7 @@
 ---
 layout: speaker
 name: Maria Gould
-affiliation: UC Berkeley, California Digital Library
+affiliation: California Digital Library
 twitter: 
 github: 
 website: https://update.lib.berkeley.edu/2018/02/26/welcome-maria-gould-scholarly-communication-copyright-librarian/
