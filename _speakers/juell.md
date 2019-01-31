@@ -7,7 +7,7 @@ github:
 website: 
 orcid: 
 image: "/images/speakers/juell.jpg"
-type: lightning
+type: panel
 ---
 
 Juell Towns is an undergraduate at Portland State University studying community health education. She is a research assistant a
