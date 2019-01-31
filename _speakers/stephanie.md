@@ -6,7 +6,7 @@ twitter: shefw
 github: 
 website: https://www.linkedin.com/in/stephw/
 image: "/images/speakers/steph.jpg"
-type: lightening
+type: lightning
 ---
 
 Stephanie Wright is a former data librarian from the University of Washington who now manages the Open Leadership & Events 
