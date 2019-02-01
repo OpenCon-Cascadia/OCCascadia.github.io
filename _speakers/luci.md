@@ -1,6 +1,6 @@
 ---
 layout: speaker
-name: Lucille Moore
+name: Lucille Moore, PhD
 affiliation: OHSU
 twitter: lucilleamoore
 github: LuciMoore
