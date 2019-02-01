@@ -4,7 +4,7 @@ name: Maria Gould
 affiliation: California Digital Library
 twitter: 
 github: 
-website: https://update.lib.berkeley.edu/2018/02/26/welcome-maria-gould-scholarly-communication-copyright-librarian/
+website: https://www.cdlib.org/contact/staff_directory/mgould.html
 orcid: 
 image: "/images/speakers/maria.jpg"
 type: lightning
