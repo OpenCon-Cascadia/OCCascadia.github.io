@@ -13,7 +13,7 @@ sitemap:
 
 All attendees, speakers, and organizers at our OpenCon Cascadia are required to follow the following code of conduct. Organizers will enforce this code throughout the entire event. We expect cooperation from all participants to help ensure a safe environment for everyone.
 
-If you experience or witness unacceptable behavior you are encourged to report ot our safety officers <a href="/team-member/jonathan">Jonathan Cain</a> and/or <a href="/team-member/luci">Lucille Moore/a>. 
+If you experience or witness unacceptable behavior you are encourged to report ot our safety officers <a href="/team-member/jonathan">Jonathan Cain</a> and/or <a href="/team-member/luci">Lucille Moore</a>. 
     
 If you do not feel comfortable going through our reporting process non-anonymously, please report anonymously by using [this form](https://docs.google.com/forms/d/e/1FAIpQLSc60U6Qr9pK118cs3g7jDhd0sUOdQJDv9_-G4MX0mJwRM0Prw/viewform). We will do our best to respond to the situation (under the restrictions of anonymity). 
 
