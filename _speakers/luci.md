@@ -1,7 +1,7 @@
 ---
 layout: speaker
 name: Lucille Moore
-affiliation: OHSU
+affiliation: Oregon Health & Science University
 twitter: lucilleamoore
 github: LuciMoore
 image: "/images/oc/luci.jpg"
