@@ -10,7 +10,7 @@ image: "/images/speakers/anisha.png"
 type: lightning
 ---
 
-Dr. Anisha Keshavan is a Research Scientist studying mental health at the Child Mind Institute, and an affiliate of the University of 
+Anisha Keshavan, PhD is a Research Scientist studying mental health at the Child Mind Institute, and an affiliate of the University of 
 Washington eScience Institute. She is interested in engaging citizen scientists in mental health research to accelerate discoveries 
 and reduce stigmas around mental health. 
 
