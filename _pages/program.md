@@ -39,7 +39,7 @@ Mozilla Downtown Portland Offices<br>
     <td>6:15 pm</td>
     <td>
       <b>Lightning talks</b><br>
-      Speakers: <a href="/speakers/steph">Stephanie Wright</a>, <a href="/speakers/kristine">Kristine Alpi</a>, Randy Morris, <a href="/speakers/mackenzie">Mackenzie Grey</a>, and <a href="/speakers/johnny">Johnny Uriarte-Lopez</a><br></td>
+      Speakers: <a href="/speakers/steph">Stephanie Wright</a>, <a href="/speakers/kristine">Kristine Alpi</a>, <a href="/speakers/randy">Randy Morris</a>, <a href="/speakers/mackenzie">Mackenzie Grey</a>, and <a href="/speakers/johnny">Johnny Uriarte-Lopez</a><br></td>
   </tr>
   <tr>
     <td>6:45 pm</td>
@@ -49,7 +49,7 @@ Mozilla Downtown Portland Offices<br>
     <td>7:15 pm</td>
     <td>
       <b>Lightning talks</b><br>
-      Speakers: <a href="/speakers/sulema">Sulema Rodriquez</a>, <a href="/speakers/ciera">Ciera Martinez</a>, Anisha Keshavan, <a href="/speakers/jill">Jill Emery</a>, <a href="/speakers/jonathan">Jonathan Cain</a>, and <a href="/speakers/maria">Maria Gould</a><br></td>
+      Speakers: <a href="/speakers/sulema">Sulema Rodriquez</a>, <a href="/speakers/ciera">Ciera Martinez</a>, <a href="/speakers/anisha">Anisha Keshavan</a>, <a href="/speakers/jill">Jill Emery</a>, <a href="/speakers/jonathan">Jonathan Cain</a>, and <a href="/speakers/maria">Maria Gould</a><br></td>
   </tr>
   <tr>
     <td>7:45 pm</td>
