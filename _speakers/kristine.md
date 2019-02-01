@@ -1,6 +1,6 @@
 ---
 layout: speaker
-name: Kristine Alpi, PhD
+name: Kristine Alpi
 affiliation: Oregon Health & Science University
 twitter: krisalpi
 github: 
@@ -10,7 +10,7 @@ image: "/images/speakers/kristine.jpg"
 type: lightning
 ---
 
-Kristine M. Alpi became University Librarian, Oregon Health & Science University, in December 2018. Previous leadership positions 
+Dr. Kristine M. Alpi became University Librarian, Oregon Health & Science University, in December 2018. Previous leadership positions 
 include Director of the William Rand Kenan, Jr. Library of Veterinary Medicine and Adjunct Assistant Professor of Population Health & 
 Pathobiology at North Carolina State University (NCSU) and Associate Library Director at the rank of Associate Librarian and Lecturer in 
 Public Health in the Department of Public Health at the Weill Medical College of Cornell University in New York City. Alpi holds a 
