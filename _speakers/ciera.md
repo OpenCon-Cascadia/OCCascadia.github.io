@@ -1,6 +1,6 @@
 ---
 layout: speaker
-name: Ciera Martinez, PhD
+name: Ciera Martinez
 affiliation: Mozilla, UC Berkeley
 twitter: cierareports
 github: iamciera
@@ -10,8 +10,7 @@ image: "/images/speakers/ciera.jpg"
 type: lightning
 ---
 
-Ciera is a evolutionary biologist and data scientist at UC Berkeley. This year as a Mozilla Fellow she and her team are working on a 
-project to get researchers, educators, and data scientists to use and value data from Natural History Museums.
+Dr. Ciera Martinez is a evolutionary biologist and data scientist at UC Berkeley. This year as a Mozilla Fellow she and her team are working on a project to get researchers, educators, and data scientists to use and value data from Natural History Museums.
 
 
 
