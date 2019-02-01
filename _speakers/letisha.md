@@ -1,6 +1,6 @@
 ---
 layout: speaker
-name: Letisha R. Wyatt, PhD
+name: Letisha R. Wyatt
 affiliation: Oregon Health & Science University, Portland
 twitter: dr_lrwyatt
 github: 
