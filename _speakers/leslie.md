@@ -1,6 +1,6 @@
 ---
 layout: speaker
-name: Leslie Chan, PhD
+name: Leslie Chan
 affiliation: University of Toronto Scarborough, Toronto
 twitter: lesliekwchan
 github: 
