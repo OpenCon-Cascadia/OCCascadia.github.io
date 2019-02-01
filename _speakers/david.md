@@ -10,7 +10,7 @@ image: "/images/speakers/david.jpg"
 type: panel
 ---
 
-Dr. David Edwards is a Scientific Programming and Communications Fellow at the Cancer Early Detection Advanced Research (CEDAR) center at 
+David Edwards, PhD is a Scientific Programming and Communications Fellow at the Cancer Early Detection Advanced Research (CEDAR) center at 
 Oregon Health & Science University, where he is developing a core infrastructure for writing support at CEDAR. Along with assisting 
 CEDAR with scientific communication and writing education, he started the “Share Our Science” initiative to maximize knowledge-sharing 
 from CEDAR’s research projects. This initiative is a collaborative institutional commitment to open science, and focuses on identifying 
