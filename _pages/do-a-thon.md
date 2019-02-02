@@ -26,16 +26,15 @@ Amazing things can happen when people with a wide variety of skills and experien
 
 ## Ideas/Projects to Join:
 
-**Symposia**	Symposia will be an open platform to help users initiate and participate in crowdsourced debates, analyses, reviews, and experiments.	#Coding, #Fundraising, #GraphicDesign,	#OpenResearch
+**Symposia:**	Symposia will be an open platform to help users initiate and participate in crowdsourced debates, analyses, reviews, and experiments.	*Looking for people to help with:* coding, fundraising, graphic design	*Themes:* #OpenResearch
 
-**Frictionless Data for Reproducible Research**	This beginner-friendly workshop will focus on ways to make open data (especially research data) more easily usable and sharable, and attendees will also learn about the Open Knowledge International community.	#Coding, #Research,	#OpenData, #OpenResearch
+**Frictionless Data for Reproducible Research:**	This beginner-friendly workshop will focus on ways to make open data (especially research data) more easily usable and sharable, and attendees will also learn about the Open Knowledge International community.	*Looking for people to help with:* coding, research	*Themes:* #OpenData #OpenResearch
 
+**A Reproducible Open Access Awards for Students:**	I would like to discuss a template for a reproducible Open Access Award that can be run by student societies across universities. Prototype: https://github.com/Bubblbu/gss-oaa
+*Looking for people to help with:* coding, communications, community grassroots organizing, event planning, fundraising, *Themes:* #OpenAccess, #OpenResearch
 
-**A Reproducible Open Access Awards for Students**	I would like to discuss a template for a reproducible Open Access Award that can be run by student societies across universities. Prototype: https://github.com/Bubblbu/gss-oaa
-#Coding, #Communications, #Community_GrassrootsOrganizing, #EventPlanning, #Fundraising, #OpenAccess, #OpenResearch
-
-**Reading Together: Annotating Open Works**	Participants will experiment together to annotate digital works using open tools and join together to add new layers of knowledge to open works, starting from texts generated/collected by OpenCon Cascadia speakers and participants. Bring your own links to digital works that inspire commentary!	
-#Research, #OpenData, #OpenEducation, #OpenResearch, #DEI
+**Reading Together: Annotating Open Works:**	Participants will experiment together to annotate digital works using open tools and join together to add new layers of knowledge to open works, starting from texts generated/collected by OpenCon Cascadia speakers and participants. Bring your own links to digital works that inspire commentary!	
+*Looking for people to help with:* research, thoughtful people *Themes:* #OpenData, #OpenEducation, #OpenResearch, #DiversityEquityInclusion
 
 **Have an idea? Write it on the whiteboard at the end of the room!**
 
