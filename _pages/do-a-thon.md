@@ -23,6 +23,22 @@ We're asking participants to think about the hurdles and perspectives that conte
 
 **3. Encourage collaboration across skill sets. Build and learn together.**
 Amazing things can happen when people with a wide variety of skills and experience come together. We want policy makers to talk to educators, librarians to work with web developers, designers to collaborate with researchers, and everything in between. We're excited to see what happens when folks across disciplines pool their knowledge together to imagine something big.
+
+## Ideas/Projects to Join:
+
+**Symposia**	Symposia will be an open platform to help users initiate and participate in crowdsourced debates, analyses, reviews, and experiments.	#Coding, #Fundraising, #GraphicDesign,	#OpenResearch
+
+**Frictionless Data for Reproducible Research**	This beginner-friendly workshop will focus on ways to make open data (especially research data) more easily usable and sharable, and attendees will also learn about the Open Knowledge International community.	#Coding, #Research,	#OpenData, #OpenResearch
+
+
+**A Reproducible Open Access Awards for Students**	I would like to discuss a template for a reproducible Open Access Award that can be run by student societies across universities. Prototype: https://github.com/Bubblbu/gss-oaa
+#Coding, #Communications, #Community_GrassrootsOrganizing, #EventPlanning, #Fundraising, #OpenAccess, #OpenResearch
+
+**Reading Together: Annotating Open Works**	Participants will experiment together to annotate digital works using open tools and join together to add new layers of knowledge to open works, starting from texts generated/collected by OpenCon Cascadia speakers and participants. Bring your own links to digital works that inspire commentary!	
+#Research, #OpenData, #OpenEducation, #OpenResearch, #DEI
+
+**Have an idea? Write it on the whiteboard at the end of the room!**
+
 ## How can I participate?
 
 The official do-a-thon date is on February 2nd, but we're encouraging folks to get started before — and hopefully, carry on projects and collaboration after. Here are a few ways you can get involved and participate:
