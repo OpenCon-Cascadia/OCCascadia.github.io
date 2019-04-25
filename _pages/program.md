@@ -104,7 +104,7 @@ Mozilla Downtown Portland Offices<br>
     <td>11:00 am</td>
     <td>
       <b>Whose Open Science? How Technology Structures Knowledge Inequality</b><br>
-      Morning Keynote by <i><a href="/speakers/leslie">Dr. Leslie Chan</a></i><br>
+      Morning Keynote by <i><a href="/speakers/leslie">Dr. Leslie Chan</a></i> (link to <a href="https://zenodo.org/record/2596865#.XI_VfVNKjBJ">slides</a>)<br>
       <hr style="margin:10px">
       <p style="font-size:.85rem">Leslie will discuss how the open science movement and those who are advancing it, need to always maintain a critical and reflexive perspective about the work they do and they advocate for. Too often technology-driven approaches lead to silencing the diversity of knowledge produced around the world in favor of an homogeneous status quo, thereby reproducing and amplifying existing structures of inequality.</p>
     </td>
@@ -131,7 +131,7 @@ Mozilla Downtown Portland Offices<br>
     <td>2:30 pm</td>
     <td>
       <b>Precision Medicine: Connecting Openness and Equity</b><br>
-      Afternoon Keynote by <i><a href="/speakers/kadija">Dr. Kadija Ferryman</a></i><br>
+      Afternoon Keynote by <i><a href="/speakers/kadija">Dr. Kadija Ferryman</a></i> (link to <a href="https://drive.google.com/file/d/1FgJeRB2AOcxboRDHiOYDXef8J4iX-ftW/view?usp=sharing">slides</a>)<br>
       <hr style="margin:10px">
       <p style="font-size:.85rem">In this talk, Dr. Ferryman will discuss the findings of her recent research project, 
           called Pursuing Fairness in Precision Medicine. She will relate her findings to open research principles, and examine how 
